@@ -5,6 +5,6 @@
         .module('ngClassifieds')
         .controller('classifiedsCtrl', function($scope)
         {
-            $scope.name = "Tayyeba";
+            $scope.message = "Hello, world!!";
         });
 })();
